@@ -61,7 +61,7 @@ class Field extends React.Component {
             <div className='field'>
                 {this.createCells()}
             </div>
-            {this.state.result&&(<h2>{this.state.result}</h2>)}
+            {this.state.result&&(<h2 className="message">{this.state.result}</h2>)}
         </>)
     }
 }

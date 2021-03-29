@@ -7,4 +7,6 @@
 
 @import url(../blocks/moves-container/moves-container.css);
 
+@import url(../blocks/message/message.css);
+
 @import url(../blocks/button-redraw/button-redraw.css);
