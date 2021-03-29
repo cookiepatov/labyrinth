@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/labyrinth/static/css/main.f3ec94e8.chunk.css",
+    "main.js": "/labyrinth/static/js/main.09a2dc8f.chunk.js",
+    "main.js.map": "/labyrinth/static/js/main.09a2dc8f.chunk.js.map",
+    "runtime-main.js": "/labyrinth/static/js/runtime-main.dd7ed7ef.js",
+    "runtime-main.js.map": "/labyrinth/static/js/runtime-main.dd7ed7ef.js.map",
+    "static/js/2.c72ccc13.chunk.js": "/labyrinth/static/js/2.c72ccc13.chunk.js",
+    "static/js/2.c72ccc13.chunk.js.map": "/labyrinth/static/js/2.c72ccc13.chunk.js.map",
+    "index.html": "/labyrinth/index.html",
+    "static/css/main.f3ec94e8.chunk.css.map": "/labyrinth/static/css/main.f3ec94e8.chunk.css.map",
+    "static/js/2.c72ccc13.chunk.js.LICENSE.txt": "/labyrinth/static/js/2.c72ccc13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd7ed7ef.js",
+    "static/js/2.c72ccc13.chunk.js",
+    "static/css/main.f3ec94e8.chunk.css",
+    "static/js/main.09a2dc8f.chunk.js"
+  ]
+}
