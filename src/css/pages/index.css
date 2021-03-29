@@ -1,0 +1,10 @@
+@import url(../blocks/field/field.css);
+
+@import url(../blocks/cell/cell.css);
+@import url(../blocks/cell/_type/cell_type_correct.css);
+@import url(../blocks/cell/_type/cell_type_start.css);
+@import url(../blocks/cell/_type/cell_type_wrong.css);
+
+@import url(../blocks/moves-container/moves-container.css);
+
+@import url(../blocks/button-redraw/button-redraw.css);
